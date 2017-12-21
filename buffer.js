@@ -158,7 +158,7 @@
 				return parts.join('')
 			}
 
-		}, {}],
+		}, {} ],
 		2: [function (require, module, exports) {
 			exports.read = function (buffer, offset, isLE, mLen, nBytes) {
 				var e, m
